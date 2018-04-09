@@ -18,18 +18,22 @@ border-color: #b62f26;
 	color: #ddd;
 }
 body {
-	font-family: 'Roboto', sans-serif;
+  font-family: 'Gugi', cursive;
 	padding-top: 50px;
 }
 h1 {
-	font-family: 'Lobster', cursive;
-	color: orange;
+	font-family: 'Gugi', cursive;
+	color: white;
 }
 #find-out-more-form form {
 	background: rgba(255, 255, 255, 0.7);
 }
 .jumbotron {
-	background-image: url('../images/fruit-and-veg.jpg');
-	background-size: cover;
+	background-image: url('../images/sound-wave2.jpg');
+	background-size: contain;
+  min-height: 450px;
 	background-attachment: fixed;
+}
+#options img {
+  max-height: 100px;
 }
