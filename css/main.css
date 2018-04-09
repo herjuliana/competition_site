@@ -1,1 +1,35 @@
-css
+.btn-twitter {
+background: #00acee;
+border-color: #009ad5;
+}
+.btn-facebook {
+background: #4868ac;
+border-color: #314776;
+}
+.btn-pinterest {
+background: #b62f26;
+border-color: #b62f26;
+}
+#social-buttons button {
+	color: white;
+}
+#mission {
+	background: rgba(32, 35, 41, 0.9);
+	color: #ddd;
+}
+body {
+	font-family: 'Roboto', sans-serif;
+	padding-top: 50px;
+}
+h1 {
+	font-family: 'Lobster', cursive;
+	color: orange;
+}
+#find-out-more-form form {
+	background: rgba(255, 255, 255, 0.7);
+}
+.jumbotron {
+	background-image: url('../images/fruit-and-veg.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+}
