@@ -1,6 +1,6 @@
 .btn-play-again {
-background: #e87e22;
-border-color: #e8a66d;
+background: #009933;
+border-color: #00ff55;
 border-width: 5px;
 color: white;
 margin: 20px;
@@ -18,7 +18,7 @@ h1 {
 	background-size: contain;
   	min-height: 450px;
 	background-attachment: fixed;
-	color: #e87e22;
+	color: #009933;
 }
 #options img {
   max-height: 100px;

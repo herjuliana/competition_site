@@ -1,32 +1,31 @@
-.btn-play {
-	background: #e87e22;
-	border-color: #e8a66d;
-	border-width: 5px;
-	color: white;
-	margin: 20px;
+.btn-play-again {
+background: #ff0000;
+border-color: #ff8080;
+border-width: 5px;
+color: white;
+margin: 20px;
 }
 body {
   font-family: 'Gugi', cursive;
 	padding-top: 50px;
-	font-size: 20px;
 }
 h1 {
 	font-family: 'Gugi', cursive;
-	color: orange;
+	font-style: italic;
 }
 .jumbotron {
 	background-image: url('../images/sound-wave2.jpg');
 	background-size: contain;
   	min-height: 450px;
-  	background-attachment: fixed;
-  	color: #e87e22;
+	background-attachment: fixed;
+	color: #ff0000;
 }
 #options img {
-  max-height: 140px;
+  max-height: 100px;
   opacity: 0.7;
 }
 #options img:hover {
-  max-height: 150px;
+  max-height: 100px;
   opacity: 1.0;
 }
 a .option-button {
