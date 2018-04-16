@@ -1,0 +1,59 @@
+.btn-play {
+	background: #e87e22;
+	border-color: #e8a66d;
+	border-width: 5px;
+	color: white;
+	margin: 20px;
+}
+body {
+  font-family: 'Gugi', cursive;
+	padding-top: 50px;
+}
+h1 {
+	font-family: 'Gugi', cursive;
+	color:#fafad2;
+}
+.jumbotron {
+	background-image: url('../images/sound-wave2.jpg');
+	background-size: contain;
+  	min-height: 450px;
+  	background-attachment: fixed;
+  	color: #fafad2;
+}
+#options img {
+  max-height: 140px;
+  opacity: 0.7;
+}
+#options img:hover {
+  max-height: 150px;
+  opacity: 1.0;
+}
+a .option-button {
+  	background-color: #e8a66d;
+	border-width: 5px;
+}
+
+#find-out-more-form form {
+	background: rgba(255, 255, 255, 0.7);
+}
+
+<!--Social buttons-->
+
+.btn-twitter {
+background: #00acee;
+border-color: #009ad5;
+}
+.btn-facebook {
+background: #4868ac;
+border-color: #314776;
+}
+.btn-pinterest {
+background: #b62f26;
+border-color: #b62f26;
+}
+#social-buttons button {
+	color: white;
+}
+#social-buttons {
+	margin: 30px;
+}
